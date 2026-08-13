@@ -1,4 +1,5 @@
 # 🚆 AI-Based Railway Track Damage Detection System
+![Project Banner](images/github-banner.png)
 
 ## 📖 Project Overview
 Railway track failures such as cracks, misalignment, broken rails, and loose joints can lead to severe accidents if they are not detected in time. This project proposes an AI-powered monitoring system that combines computer vision, ultrasonic sensing, and vibration analysis to detect track defects in real time. The system alerts the train driver and maintenance team through a mobile application with the defect type and GPS location.
